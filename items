@@ -1,0 +1,18 @@
+['virus_zombie'] = {
+    label = 'Zombie Pathogen',
+    weight = 100,
+    stack = true,
+    close = true,
+},
+['virus_covid'] = {
+    label = 'COVID-26 Sample',
+    weight = 100,
+    stack = true,
+    close = true,
+},
+['virus_rage'] = {
+    label = 'Rage Virus',
+    weight = 100,
+    stack = true,
+    close = true,
+},
